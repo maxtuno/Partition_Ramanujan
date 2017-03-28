@@ -9,3 +9,4 @@ Expansion of Product_{m >= 1} (1 + x^m); number of partitions of n into distinct
 https://oeis.org/A000009
 
 Me => https://twitter.com/maxtuno
+Video => https://twitter.com/maxtuno/status/846821439646793728
